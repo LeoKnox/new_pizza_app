@@ -1,0 +1,9 @@
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/bin/Debug/netstandard2.0/PizzaPlace070.Shared.deps.json
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/bin/Debug/netstandard2.0/PizzaPlace070.Shared.dll
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/bin/Debug/netstandard2.0/PizzaPlace070.Shared.pdb
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/obj/Debug/netstandard2.0/PizzaPlace070.Shared.csprojAssemblyReference.cache
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/obj/Debug/netstandard2.0/PizzaPlace070.Shared.csproj.CoreCompileInputs.cache
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/obj/Debug/netstandard2.0/PizzaPlace070.Shared.AssemblyInfoInputs.cache
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/obj/Debug/netstandard2.0/PizzaPlace070.Shared.AssemblyInfo.cs
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/obj/Debug/netstandard2.0/PizzaPlace070.Shared.dll
+/Users/Aelien/Documents/c#/PizzaPlace070/PizzaPlace070.Shared/obj/Debug/netstandard2.0/PizzaPlace070.Shared.pdb
